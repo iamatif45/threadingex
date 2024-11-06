@@ -1,0 +1,14 @@
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\bin\Debug\net8.0\ConAppThreadingEx.exe
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\bin\Debug\net8.0\ConAppThreadingEx.deps.json
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\bin\Debug\net8.0\ConAppThreadingEx.runtimeconfig.json
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\bin\Debug\net8.0\ConAppThreadingEx.dll
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\bin\Debug\net8.0\ConAppThreadingEx.pdb
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\obj\Debug\net8.0\ConAppThreadingEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\obj\Debug\net8.0\ConAppThreadingEx.AssemblyInfoInputs.cache
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\obj\Debug\net8.0\ConAppThreadingEx.AssemblyInfo.cs
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\obj\Debug\net8.0\ConAppThreadingEx.csproj.CoreCompileInputs.cache
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\obj\Debug\net8.0\ConAppThreadingEx.dll
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\obj\Debug\net8.0\refint\ConAppThreadingEx.dll
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\obj\Debug\net8.0\ConAppThreadingEx.pdb
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\obj\Debug\net8.0\ConAppThreadingEx.genruntimeconfig.cache
+C:\Genpact\Day10\ConAppThreadingEx\ConAppThreadingEx\obj\Debug\net8.0\ref\ConAppThreadingEx.dll
